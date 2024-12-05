@@ -42,7 +42,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/devpatel024/Gemini-Clone
+   git clone https://github.com/devpatel024/Gemini-Clone.git
    cd gemini-clone
    ```
 
@@ -82,6 +82,3 @@ Follow these steps to run the project locally:
 
 Contributions are welcome! If you have suggestions for improving this project, feel free to open a pull request or submit an issue.
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
