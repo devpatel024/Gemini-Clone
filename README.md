@@ -1,8 +1,6 @@
-Here’s a README template for your "Gemini Clone" project using Vite and React:
+# Gemini Clone
 
 ---
-
-# Gemini Clone
 
 A clone of the popular Gemini platform, built with **Vite** and **React** for a fast and modern development experience.
 
